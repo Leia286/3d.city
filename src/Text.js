@@ -20,7 +20,7 @@ Micro.Text = function(){
                    'Fire', 'Road', 'Power', 'Rail', 'Residential', 'Commercial',
                    'Industrial', 'Seaport', 'Airport', 'Coal Power', 'Fire Department',
                    'Police Department', 'Stadium', 'Nuclear Power', 'Draw Bridge',
-                   'Radar Dish', 'Fountain', 'Industrial', 'Steelers 38  Bears 3',
+                   'Radar Dish', 'Fountain', 'Industrial', 'Seahawks 38  Packers 3',
                    'Draw Bridge', 'Ur 238'];
 
     // Evaluation window
@@ -75,7 +75,7 @@ Micro.Text = function(){
     neutralMessages[Messages.WELCOMEBACK] = 'Welcome to 3D City';
 
     var badMessages = {};
-    badMessages[Messages.BLACKOUTS_REPORTED] = 'Brownouts, build another Power Plant';
+    badMessages[Messages.BLACKOUTS_REPORTED] = 'Power Outages, build another Power Plant';
     badMessages[Messages.COPTER_CRASHED] = 'A helicopter crashed ';
     badMessages[Messages.EARTHQUAKE] = 'Major earthquake reported !!';
     badMessages[Messages.EXPLOSION_REPORTED] = 'Explosion detected ';
@@ -85,7 +85,7 @@ Micro.Text = function(){
     badMessages[Messages.HIGH_CRIME] = 'Crime very high';
     badMessages[Messages.HIGH_POLLUTION] = 'Pollution very high';
     badMessages[Messages.MONSTER_SIGHTED] = 'A Monster has been sighted !';
-    badMessages[Messages.NO_MONEY] = 'YOUR CITY HAS GONE BROKE';
+    badMessages[Messages.NO_MONEY] = 'YOUR CITY HAS GONE BROKE!';
     badMessages[Messages.NOT_ENOUGH_POWER] = 'Blackouts reported. insufficient power capacity';
     badMessages[Messages.NUCLEAR_MELTDOWN] = 'A Nuclear Meltdown has occurred !!';
     badMessages[Messages.PLANE_CRASHED] = 'A plane has crashed ';
